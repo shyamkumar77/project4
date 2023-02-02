@@ -1,0 +1,14 @@
+.b1{
+    background-color:  rgb(94, 6, 138);
+    color: white;
+    height: 58px;
+    width: 146px;
+    border-radius: 53px;
+    margin-top: 25px;
+}
+
+.b1:hover{
+    background-color: white;
+    color: rgb(94, 6, 138);
+    border-color: rgb(94, 6, 138);;
+}

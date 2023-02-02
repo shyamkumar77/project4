@@ -1,0 +1,23 @@
+.c1{
+    background-color: #5e068a;
+    color: white;
+    width: 151px;
+    height: 32px;
+    border: none;
+}
+
+.c1:hover{
+    background-color: #a470bf;
+}
+
+
+.c2{
+    background-color: #5e068a;
+    width: 120px;
+    height: -1px;
+    border-radius: 50px;
+}
+
+.c2:hover{
+    background-color: #a470bf;
+}
